@@ -1,0 +1,16 @@
+{
+  "name": "deep-backend",
+  "version": "1.0.0",
+  "description": "Not much but going deep in backend",
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Madhav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
